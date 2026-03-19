@@ -1,0 +1,7 @@
+{
+  "name": "AI Smart Tourist Companion",
+  "description": "A modern, AI-powered travel assistant landing page featuring smart recommendations, trip planning, and local discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
