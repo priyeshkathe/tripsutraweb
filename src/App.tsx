@@ -538,7 +538,7 @@ const AppPreviewSection = () => {
       desc: "Find authentic local restaurants nearby.", 
       color: "from-orange-500", 
       icon: <Utensils size={40} className="text-white" />,
-      image: "/images/Food.jpeg"
+      image: "/images/Exploring.jpeg"
     },
     { 
       title: "Events Discovery", 
